@@ -43,13 +43,19 @@ Successfully implemented SDN firewall using POX controller with match-action rul
 
  Output Screenshots
 
-  CONTROLLER OUTPUT
-  <img width="511" height="305" alt="image" src="https://github.com/user-attachments/assets/aeb59ea8-5bae-42e8-8022-5a832ec5910e" />
-  PING TEST
-  <img width="457" height="198" alt="image" src="https://github.com/user-attachments/assets/3e3cfb19-a98a-4591-92ba-459005b27cf6" />
-  TCP BLOCKING
-  <img width="423" height="174" alt="image" src="https://github.com/user-attachments/assets/491dd204-1756-48d5-81e1-6c79145d3e47" />
-  <img width="258" height="219" alt="image" src="https://github.com/user-attachments/assets/234d6b9f-bb28-4b25-bc0d-be0c46b73169" />
+## Output Screenshots
+
+### Controller Output
+![Controller](controller.png)
+
+### Ping Test
+![Ping](ping.png)
+
+### TCP Blocking
+![TCP](tcp.png)
+
+
+
 
 
 
