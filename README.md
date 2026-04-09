@@ -41,18 +41,7 @@ h2 iperf -c h1
 ## Conclusion
 Successfully implemented SDN firewall using POX controller with match-action rules.
 
- Output Screenshots
 
-## Output Screenshots
-
-### Controller Output
-![Controller](controller.png)
-
-### Ping Test
-![Ping](ping.png)
-
-### TCP Blocking
-![TCP](tcp.png)
 
 
 
