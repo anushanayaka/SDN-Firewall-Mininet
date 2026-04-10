@@ -1,7 +1,7 @@
-# SDN Firewall using POX and Mininet
+# Topology Change Detection using POX Controller and Mininet
 
 ## Objective
-To implement a firewall using SDN controller (POX) that blocks TCP traffic and allows ICMP.
+The objective of this project is to implement a topology change detection system using Software Defined Networking (SDN) with the POX controller and Mininet. The system aims to monitor network events such as switch connections and packet arrivals, detect changes in the network topology dynamically, and demonstrate how the controller can respond to these changes using OpenFlow rules.
 
 ## Tools Used
 - Mininet
